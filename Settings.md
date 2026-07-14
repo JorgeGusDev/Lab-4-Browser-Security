@@ -197,8 +197,6 @@ PyZoobarLogin=usuario#valor_de_sesion
 
 ## 8. Desarrollo del Exercise 1: Print cookie
 
-### 8.1 Objetivo del ejercicio
-
 El objetivo del **Exercise 1: Print cookie** es mostrar la cookie del usuario autenticado mediante JavaScript cuando el usuario visita la página **Users**.
 
 Este ejercicio evidencia que la cookie de sesión puede ser accesible desde el navegador mediante:
@@ -207,7 +205,7 @@ Este ejercicio evidencia que la cookie de sesión puede ser accesible desde el n
 document.cookie
 ```
 
-## 9. Ubicar el archivo correcto
+## 9. Ubicar el archivo 
 
 Desde la VM, en una nueva terminal, ejecutar:
 
