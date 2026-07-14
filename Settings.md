@@ -2,7 +2,7 @@
 
 ## 1. Descripción general
 
-El presente roadmap tiene como finalidad orientar la instalación del entorno de laboratorio y el desarrollo controlado correspondiente al **Lab 4: Browser Security** del MIT. https://css.csail.mit.edu/6.566/2026/labs/lab4.html
+El presente roadmap tiene como finalidad orientar la instalación del entorno de laboratorio y el desarrollo controlado correspondiente al **Lab 4: Browser Security** del MIT. [https://css.csail.mit.edu/6.566/2026/labs/lab4.html]
 
 El laboratorio será trabajado únicamente en un entorno local, usando la aplicación vulnerable **Zoobar**, con fines académicos, demostrativos y defensivos.
 
@@ -21,7 +21,7 @@ El objetivo no es desarrollar un ataque real, sino comprender el riesgo asociado
 Antes de iniciar, se debe contar con:
 
 - Oracle VirtualBox instalado.
-- VM del curso MIT descargada y descomprimida. https://web.mit.edu/6.858/2026/6.566-standalone-v26.zip
+- VM del curso MIT descargada y descomprimida. [https://web.mit.edu/6.858/2026/6.566-standalone-v26.zip]
 - Acceso a Internet desde la VM.
 - Navegador web en el equipo anfitrión.
 
