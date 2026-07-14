@@ -189,12 +189,6 @@ F12
 Application > Cookies > localhost
 ```
 
-También se puede verificar en la consola del navegador:
-
-```javascript
-document.cookie
-```
-
 Si el usuario está autenticado, debería observarse una cookie de sesión similar a:
 
 ```txt
