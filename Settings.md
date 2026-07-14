@@ -21,7 +21,7 @@ El objetivo no es desarrollar un ataque real, sino comprender el riesgo asociado
 Antes de iniciar, se debe contar con:
 
 - Oracle VirtualBox instalado.
-- VM del curso MIT descargada y descomprimida.
+- VM del curso MIT descargada y descomprimida. https://web.mit.edu/6.858/2026/6.566-standalone-v26.zip
 - Acceso a Internet desde la VM.
 - Navegador web en el equipo anfitrión.
 
